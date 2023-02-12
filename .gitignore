@@ -1,4 +1,17 @@
 
+vitualamb/
+virtualenv/
+env/
+venv/
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+vitualamb.bak/
+.vitualamb
+
+
 vitualamb/Lib/site-packages/_distutils_hack/__init__.py
 vitualamb/Lib/site-packages/_distutils_hack/__pycache__/__init__.cpython-311.pyc
 vitualamb/Lib/site-packages/_distutils_hack/__pycache__/override.cpython-311.pyc
